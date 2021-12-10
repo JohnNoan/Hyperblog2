@@ -8,3 +8,4 @@ Este es un curso que estoy tomando para aprender git desde cero.
 ## Este repositorio es creado por
 * Noan 
 * Incluye ejemplos de git
+* Disponible para todo el mundo
